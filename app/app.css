@@ -13,3 +13,18 @@ body {
     color-scheme: dark;
   }
 }
+
+.nav_header{
+  @apply bg-white dark:bg-gray-50;
+  color: black;
+}
+
+footer{
+  @apply bg-white dark:bg-gray-50;
+  color: black;
+}
+
+select{
+    @apply bg-white dark:bg-gray-50;
+    color: black;
+}
